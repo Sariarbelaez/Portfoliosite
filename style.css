@@ -26,10 +26,13 @@
 display: flex;
 justify-content: center;
 
+flex-wrap: wrap;
 }
 .image2 .image3 
 {
     justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
